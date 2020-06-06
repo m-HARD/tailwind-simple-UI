@@ -1,3 +1,3 @@
-# tailwind-builder
+# Simple design by tailwind
 
 Develop by Musab ❤️
